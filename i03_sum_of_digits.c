@@ -1,7 +1,7 @@
 /*
 https://www.hackerrank.com/challenges/sum-of-digits-of-a-five-digit-number/problem?h_r=next-challenge&h_v=zen
 
-Task: Given a five digit number, return the sum of the digits.
+Task: Given a positive integer, return the sum of the digits.
 
 Input
 10564
